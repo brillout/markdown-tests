@@ -6,3 +6,11 @@ Test GitHub's Markdown
 <img src="https://github.com/favicon.ico" alt="Red dot" />
 
 <img src="https://www.google.com/favicon.ico" alt="Red dot" />
+
+
+50%
+███████▒▒▒
+
+
+Loading…
+█▒▒▒▒▒▒▒▒▒
