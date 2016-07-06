@@ -7,6 +7,8 @@ Test GitHub's Markdown
 
 <img src="https://www.google.com/favicon.ico" alt="Red dot" />
 
+https://github.com/
+
 
 50%
 ███████▒▒▒
